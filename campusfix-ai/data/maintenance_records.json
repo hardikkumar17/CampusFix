@@ -1,0 +1,134 @@
+[
+    {
+        "id": "M001",
+        "location": "Room 204",
+        "category": "Projector",
+        "complaint": "Projector does not turn on",
+        "cause": "Loose power cable or faulty power supply",
+        "resolution": "Check the power connection and test the adapter. Replace the adapter if faulty.",
+        "estimated_cost": 800,
+        "repair_time_hours": 1,
+        "urgency": "Medium"
+    },
+    {
+        "id": "M002",
+        "location": "Computer Lab 1",
+        "category": "Network",
+        "complaint": "Computers cannot connect to the internet",
+        "cause": "Router malfunction or network cable disconnection",
+        "resolution": "Check router status, reconnect network cables, and restart the router.",
+        "estimated_cost": 500,
+        "repair_time_hours": 1,
+        "urgency": "High"
+    },
+    {
+        "id": "M003",
+        "location": "Library",
+        "category": "Electrical",
+        "complaint": "Lights are flickering repeatedly",
+        "cause": "Loose wiring or defective LED driver",
+        "resolution": "Ask a qualified electrician to inspect wiring and replace the faulty driver.",
+        "estimated_cost": 1200,
+        "repair_time_hours": 2,
+        "urgency": "Medium"
+    },
+    {
+        "id": "M004",
+        "location": "Block A Washroom",
+        "category": "Plumbing",
+        "complaint": "Water tap is leaking continuously",
+        "cause": "Damaged washer or worn-out tap cartridge",
+        "resolution": "Replace the washer or cartridge and test the tap for leaks.",
+        "estimated_cost": 300,
+        "repair_time_hours": 1,
+        "urgency": "Low"
+    },
+    {
+        "id": "M005",
+        "location": "Seminar Hall",
+        "category": "Air Conditioning",
+        "complaint": "Air conditioner is not cooling properly",
+        "cause": "Dirty air filter or refrigerant issue",
+        "resolution": "Clean the air filter and request an HVAC technician to inspect refrigerant levels.",
+        "estimated_cost": 1800,
+        "repair_time_hours": 3,
+        "urgency": "Medium"
+    },
+    {
+        "id": "M006",
+        "location": "Physics Lab",
+        "category": "Electrical",
+        "complaint": "Electrical socket is sparking",
+        "cause": "Loose connection or damaged socket",
+        "resolution": "Isolate the power supply and have a qualified electrician replace the socket.",
+        "estimated_cost": 700,
+        "repair_time_hours": 1,
+        "urgency": "Critical"
+    },
+    {
+        "id": "M007",
+        "location": "Room 105",
+        "category": "Furniture",
+        "complaint": "Student desk is unstable",
+        "cause": "Loose screws or damaged desk joint",
+        "resolution": "Tighten the screws and replace damaged joints if necessary.",
+        "estimated_cost": 250,
+        "repair_time_hours": 1,
+        "urgency": "Low"
+    },
+    {
+        "id": "M008",
+        "location": "Computer Lab 2",
+        "category": "Computer",
+        "complaint": "Desktop computer shuts down unexpectedly",
+        "cause": "Overheating or faulty power supply",
+        "resolution": "Check cooling fans, clean dust, and have the power supply tested.",
+        "estimated_cost": 1500,
+        "repair_time_hours": 2,
+        "urgency": "High"
+    },
+    {
+        "id": "M009",
+        "location": "Block B Corridor",
+        "category": "Plumbing",
+        "complaint": "Water is accumulating on the floor",
+        "cause": "Leaking pipe or blocked drainage",
+        "resolution": "Restrict access to the wet area and ask maintenance staff to inspect the pipe and drain.",
+        "estimated_cost": 1000,
+        "repair_time_hours": 2,
+        "urgency": "High"
+    },
+    {
+        "id": "M010",
+        "location": "Room 302",
+        "category": "Projector",
+        "complaint": "Projector displays a blank screen",
+        "cause": "Incorrect input source or loose HDMI cable",
+        "resolution": "Select the correct input source and reconnect or replace the HDMI cable.",
+        "estimated_cost": 400,
+        "repair_time_hours": 1,
+        "urgency": "Low"
+    },
+    {
+        "id": "M011",
+        "location": "Library",
+        "category": "Network",
+        "complaint": "Campus Wi-Fi connection is very slow",
+        "cause": "Network congestion or access point issue",
+        "resolution": "Check access point performance and network traffic.",
+        "estimated_cost": 900,
+        "repair_time_hours": 2,
+        "urgency": "Medium"
+    },
+    {
+        "id": "M012",
+        "location": "Chemistry Lab",
+        "category": "Electrical",
+        "complaint": "Laboratory equipment is not receiving power",
+        "cause": "Tripped circuit breaker or damaged power connection",
+        "resolution": "Disconnect equipment and ask a qualified electrician to inspect the circuit.",
+        "estimated_cost": 1000,
+        "repair_time_hours": 2,
+        "urgency": "High"
+    }
+]
